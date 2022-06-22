@@ -1,3 +1,1 @@
-# 42SP-arfernan
-42SP
-primeiro
+42SP-arfernan
